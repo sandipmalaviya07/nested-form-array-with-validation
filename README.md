@@ -10,6 +10,8 @@ Create a form with N number of sub-forms, each with N number of listed items, an
 
 Let’s Say, you had to create a gateway for Family Information that included basic information as well as various Address Details, Income Details, Expense Details, Education Details, Sickness Details, and so on. Furthermore, each family has several family members, and each family member has various education, spending, and income statistics. All forms contain N details and distinct fields, as well as dynamic validation when data is entered.
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/7045486/161248667-7809e995-5c6b-46ab-a965-99dd4207c638.gif)
+
 
 ## Development server
 
