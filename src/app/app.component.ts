@@ -82,5 +82,7 @@ export class AppComponent implements OnInit {
     this.educationdata().removeAt(i);
   }
   //#endregion
-  onSubmit() {}
+  onSubmit() {
+    console.log(this.myForm.value)
+  }
 }
